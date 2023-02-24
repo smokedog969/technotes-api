@@ -1,4 +1,5 @@
 const allowedOrigins = [
+    '*', // Allow all origins
     'https://technotes-bgle.onrender.com',
     'https://technotes-bgle.onrender.com/auth',
     'https://technotes-bgle.onrender.com/login',
